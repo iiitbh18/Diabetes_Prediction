@@ -15,9 +15,9 @@ SVM chooses the extreme points/vectors that help in creating the hyperplane. The
 </p>
 
 <p>
-    <img src="./diabete1.jpg" alt="Home Page" />
+    <img src="./diabet1.jpg" alt="Home Page" />
 </p>
 
 <p>
-    <img src="./diabete2.jpg" alt="Home Page" />
+    <img src="./diabet2.jpg" alt="Home Page" />
 </p>
