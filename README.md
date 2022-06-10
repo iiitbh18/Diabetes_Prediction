@@ -1,4 +1,4 @@
-# Diabetes_Prediction
+
 
 # Diabetes Prediction using SVM(Support Vector Machine) Algorithm
 # Support vector Algorithm:- 
@@ -15,9 +15,9 @@ SVM chooses the extreme points/vectors that help in creating the hyperplane. The
 </p>
 
 <p>
-    <img src="./diabetes1.jpg" alt="Home Page" />
+    <img src="./diabete1.jpg" alt="Home Page" />
 </p>
 
 <p>
-    <img src="./diabetes2.jpg" alt="Home Page" />
+    <img src="./diabete2.jpg" alt="Home Page" />
 </p>
